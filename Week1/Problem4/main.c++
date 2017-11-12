@@ -25,7 +25,7 @@ int maximize_ability(const VI& practice, const VI& theory) {
         min_difference = min(min_difference, abs(practice[i] - theory[i]));
     }
 
-    if (!practice_day || !theory_day) {
+    if (not practice_day or not theory_day) {
         max_ability -= min_difference;
     }
 

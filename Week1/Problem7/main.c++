@@ -87,7 +87,7 @@ int main() {
     VC symbols3 = read_source_code(fin);
     int time3 = typing_time(symbols3, keyboard);
 
-    if (time1 <= time2 && time1 <= time3) {
+    if (time1 <= time2 and time1 <= time3) {
         fout << language1 << endl << time1 << endl;
     } else if (time2 <= time3) {
         fout << language2 << endl << time2 << endl;

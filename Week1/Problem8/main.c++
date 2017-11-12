@@ -26,7 +26,7 @@ int number_of_divisors(int n, const VB& is_prime, const VI& prime_factors) {
 
     for (int prime : prime_factors) {
         
-        if (is_prime[n] || prime*prime > n) break;
+        if (is_prime[n] or prime*prime > n) break;
 
         int exponent = 0;
         while (n%prime == 0) {
