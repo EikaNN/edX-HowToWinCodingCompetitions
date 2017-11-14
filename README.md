@@ -22,3 +22,4 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 4. [Bracket Sequence](Week2/Problem4/main.c++)
 5. [Postfix Notation](Week2/Problem5/main.c++)
 6. [Snowmen](Week2/Problem6/main.c++)
+7. [Stacks](Week2/Problem7/main.c++)
