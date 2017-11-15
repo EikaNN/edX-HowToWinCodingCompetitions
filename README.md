@@ -23,3 +23,4 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 5. [Postfix Notation](Week2/Problem5/main.c++)
 6. [Snowmen](Week2/Problem6/main.c++)
 7. [Stacks](Week2/Problem7/main.c++)
+8. [Kenobi's Lightsabers](Week2/Problem8/main.c++)
