@@ -3,7 +3,7 @@
 ## Problems
 
 1. [A + B](Problem1/main.c++)
-2. [A + B^2](Problem2/main.c++)
+2. [A + B<sup>2</sup>](Problem2/main.c++)
 3. [Three-bonacci](Problem3/main.c++)
 4. [Prepare Yourself to Competitions!](Problem4/main.c++)
 5. [Create a Team!](Problem5/main.c++)

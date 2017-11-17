@@ -5,7 +5,7 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 ## [Week 1](Week1)
 
 1. [A + B](Week1/Problem1/main.c++)
-2. [A + B^2](Week1/Problem2/main.c++)
+2. [A + B<sup>2</sup>](Week1/Problem2/main.c++)
 3. [Three-bonacci](Week1/Problem3/main.c++)
 4. [Prepare Yourself to Competitions!](Week1/Problem4/main.c++)
 5. [Create a Team!](Week1/Problem5/main.c++)
