@@ -3,7 +3,8 @@
 ## Problems
 
 1. [Sorting](Problem1)
-1. [Inversions](Problem2)
+2. [Inversions](Problem2)
+3. [Saving Lives](Problem3)
 
 ## Additional material
 
