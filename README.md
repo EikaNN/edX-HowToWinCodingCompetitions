@@ -24,3 +24,8 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 6. [Snowmen](Week2/Problem6/main.c++)
 7. [Stacks](Week2/Problem7/main.c++)
 8. [Kenobi's Lightsabers](Week2/Problem8/main.c++)
+
+## [Week 3](Week3)
+
+1. [Sorting](Week3/Problem1/main.c++)
+

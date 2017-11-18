@@ -2,14 +2,14 @@
 
 ## Problems
 
-1. [Stack](Week2/Problem1/main.c++)
-2. [Queue](Week2/Problem2/main.c++)
-3. [Queue with Minimum](Week2/Problem3/main.c++)
-4. [Bracket Sequence](Week2/Problem4/main.c++)
-5. [Postfix Notation](Week2/Problem5/main.c++)
-6. [Snowmen](Week2/Problem6/main.c++)
-7. [Stacks](Week2/Problem7/main.c++)
-8. [Kenobi's Lightsabers](Week2/Problem8/main.c++)
+1. [Stack](Problem1/main.c++)
+2. [Queue](Problem2/main.c++)
+3. [Queue with Minimum](Problem3/main.c++)
+4. [Bracket Sequence](Problem4/main.c++)
+5. [Postfix Notation](Problem5/main.c++)
+6. [Snowmen](Problem6/main.c++)
+7. [Stacks](Problem7/main.c++)
+8. [Kenobi's Lightsabers](Problem8/main.c++)
 
 ## Additional material
 
