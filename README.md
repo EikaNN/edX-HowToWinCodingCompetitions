@@ -28,4 +28,4 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 ## [Week 3](Week3)
 
 1. [Sorting](Week3/Problem1/main.c++)
-
+2. [Inversions](Week3/Problem2/main.c++)

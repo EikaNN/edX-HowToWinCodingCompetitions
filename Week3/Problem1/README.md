@@ -27,7 +27,7 @@ Let us give an example: we sort the array [9, 7, 5, 8]. The recursive part of th
     * split the interval [1; 2] into two parts, [1; 1] and [2; 2];
     * these parts have size 1, will not call SORT on them;
     * perform merging, after which *A* becomes [7,9,5,8];
-    * print the merge record: *I<sub>f</sub>*=*L*=1, *I<sub>l</sub>*=*R*=2, *V<sub>f</sub>*=*A<sub>L</sub>*=7, *V<sub>l</sub>*=*A<sub>R</sub>*=9.
+    * print the merge record: *I<sub>f</sub>* = *L* = 1, *I<sub>l</sub>* = *R* = 2, *V<sub>f</sub>* = *A<sub>L</sub>* = 7, *V<sub>l</sub>* = *A<sub>R</sub>* = 9.
 * call SORT(*A*, *L*=3, *R*=4):
     * split the interval [3; 4] into two parts, [3; 3] and [4; 4];
     * these parts have size 1, will not call SORT on them;

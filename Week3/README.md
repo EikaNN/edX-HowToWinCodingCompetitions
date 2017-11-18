@@ -2,7 +2,8 @@
 
 ## Problems
 
-1. [Sorting](Problem1/main.c++)
+1. [Sorting](Problem1)
+1. [Inversions](Problem2)
 
 ## Additional material
 
