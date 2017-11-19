@@ -5,6 +5,8 @@
 1. [Sorting](Problem1)
 2. [Inversions](Problem2)
 3. [Saving Lives](Problem3)
+4. [Anti-Quicksort](Problem4)
+5. [K-th Ordered Statistic](Problem5)
 
 ## Additional material
 

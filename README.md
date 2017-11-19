@@ -30,3 +30,6 @@ This repo contains the assignments from edX's course [How to Win Coding Competit
 1. [Sorting](Week3/Problem1/main.c++)
 2. [Inversions](Week3/Problem2/main.c++)
 3. [Saving Lives](Week3/Problem3/main.c++)
+4. [Anti-Quicksort](Week3/Problem4/main.c++)
+5. [K-th Ordered Statistic](Week3/Problem5/main.c++)
+
